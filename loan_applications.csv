@@ -1,0 +1,306 @@
+applicant_id,monthly_income_etb,loan_amount_etb,has_collateral,employment_type,application_channel,credit_history_flag,defaulted
+58,6640,9300,Yes,Farmer,Branch,Good,No
+66,8560,9000,No,Trader,Mobile App,Good,No
+94,4330,15200,No,Trader,Mobile App,Good,Yes
+73,3300,8980,Yes,Salaried,Branch,Good,No
+201,10310,16450,No,Trader,Branch,Good,No
+293,13360,24120,Yes,Self-employed,Mobile App,Poor,No
+180,10680,14840,Yes,Salaried,Mobile App,Good,No
+202,14590,32180,,Self-employed,Branch,Fair,No
+284,13160,31180,Yes,Salaried,Branch,Fair,No
+297,4630,9430,Yes,Farmer,Mobile App,Good,No
+45,6660,16330,No,Farmer,Mobile App,Good,No
+189,12000,28590,Yes,Self-employed,Branch,Fair,No
+52,10170,33110,No,Farmer,Agent,Good,No
+95,12970,33460,Yes,Salaried,Mobile App,Good,No
+199,8980,19170,Yes,Trader,Mobile App,Good,No
+152,7230,16830,Yes,Trader,Agent,Fair,No
+287,8540,18230,Yes,Farmer,Agent,Good,No
+108,5380,10740,Yes,Trader,Agent,Good,No
+11,8320,14950,Yes,Farmer,Branch,Fair,No
+13,10120,22210,No,Trader,Mobile App,Good,No
+86,5490,9550,No,Farmer,Agent,Good,Yes
+30,14480,24320,Yes,Salaried,Agent,Good,No
+148,11560,22240,Yes,Self-employed,Mobile App,Poor,No
+178,5510,13160,Yes,Farmer,Mobile App,Good,No
+166,6280,14890,Yes,Trader,Mobile App,Fair,No
+123,9590,21580,No,Trader,Agent,Fair,No
+213,5460,13240,No,Trader,Branch,Fair,No
+160,8110,22860,Yes,Self-employed,Agent,Good,No
+12,11640,34490,No,Trader,Branch,Good,No
+68,9360,22760,Yes,Self-employed,Branch,Good,No
+252,6970,18610,No,Trader,Agent,Fair,No
+164,8840,20340,Yes,Self-employed,Mobile App,Good,No
+185,9150,18620,No,Self-employed,Branch,Good,No
+6,2930,4080,No,Farmer,Agent,Fair,Yes
+71,,29890,No,Self-employed,Mobile App,Good,No
+3,3910,6330,No,Trader,Branch,Good,No
+172,9620,19970,Yes,Trader,Agent,Fair,No
+259,8540,18270,,Trader,Branch,Fair,No
+117,4970,9740,Yes,Trader,Branch,Good,No
+35,,22890,Yes,Salaried,Mobile App,Poor,No
+251,1500,2110,Yes,Self-employed,Mobile App,Good,No
+65,7820,11740,No,Trader,Mobile App,Fair,No
+31,,19210,No,Trader,Agent,Good,No
+156,4970,8450,No,Farmer,Mobile App,Good,Yes
+292,7240,20060,Yes,Self-employed,Branch,Good,No
+241,6840,27170,Yes,Trader,Mobile App,Fair,No
+25,,19280,Yes,Farmer,Branch,Good,No
+168,8310,21540,Yes,Salaried,Branch,Good,No
+245,3570,7700,,Farmer,Mobile App,Fair,Yes
+119,,7050,Yes,Trader,Mobile App,Poor,Yes
+135,9390,15170,No,Farmer,Mobile App,Good,No
+300,5550,8420,No,Farmer,Branch,Poor,No
+16,5060,13270,Yes,Farmer,Mobile App,Good,No
+205,6420,9350,Yes,Self-employed,Mobile App,Fair,Yes
+96,6030,17890,No,Farmer,Branch,Good,No
+113,13150,44020,No,Salaried,Mobile App,Good,No
+157,13240,36550,No,Salaried,Branch,Fair,No
+285,3670,7160,Yes,Trader,Mobile App,Fair,No
+67,13790,33510,Yes,Self-employed,Branch,Good,No
+61,2940,7000,Yes,Salaried,Branch,Good,No
+299,8380,6640,Yes,Farmer,Branch,Fair,No
+294,9190,8000,No,Salaried,Mobile App,Fair,No
+53,5870,18020,No,Salaried,Mobile App,Good,Yes
+212,,24980,Yes,Self-employed,Mobile App,Fair,No
+83,9170,15580,No,Farmer,Mobile App,Good,No
+144,7960,16890,Yes,Farmer,Mobile App,Good,No
+239,7280,12220,No,Farmer,Mobile App,Poor,No
+206,7660,23970,No,Farmer,Agent,Good,No
+277,5280,11330,No,Farmer,Mobile App,Poor,No
+227,4540,13830,No,Farmer,Branch,Good,No
+162,5480,17570,Yes,Farmer,Branch,Poor,Yes
+90,6920,21490,No,Salaried,Mobile App,Poor,Yes
+15,6200,13210,No,Farmer,Agent,Fair,No
+260,10890,39960,No,Trader,Mobile App,Good,No
+296,10050,12980,Yes,Trader,Mobile App,Fair,No
+290,9160,10550,No,Self-employed,Branch,Poor,No
+120,7590,13210,Yes,Farmer,Agent,Good,No
+234,7380,19360,Yes,Farmer,Agent,Fair,No
+219,5010,8030,Yes,Trader,Branch,Poor,Yes
+74,8700,14060,No,Trader,Branch,Fair,No
+138,8490,14710,No,Trader,Mobile App,Good,No
+184,5250,9230,No,Farmer,Branch,Fair,No
+128,7240,19860,No,Farmer,Mobile App,Good,No
+87,8730,11190,Yes,Trader,Mobile App,Fair,No
+104,7960,16850,No,Trader,Mobile App,Good,No
+149,14010,31480,Yes,Self-employed,Mobile App,Good,No
+283,6670,10000,No,Salaried,Branch,Poor,Yes
+121,9650,20800,Yes,Trader,Agent,Fair,No
+110,3730,8230,Yes,Farmer,Mobile App,Good,No
+210,8230,7640,No,Trader,Agent,Good,No
+131,8410,11930,No,Farmer,Branch,Poor,No
+230,9950,22210,No,Salaried,Agent,Fair,No
+250,12350,10700,No,Self-employed,Mobile App,Poor,Yes
+107,5570,13670,Yes,Farmer,Mobile App,Good,No
+207,11700,18080,Yes,Self-employed,Branch,Good,No
+229,8940,18070,No,Self-employed,Mobile App,Fair,No
+279,11010,21020,No,Trader,Mobile App,Good,No
+249,12760,26890,Yes,Self-employed,Branch,Good,No
+57,11870,20470,No,Trader,Mobile App,Good,Yes
+103,8320,16230,Yes,Farmer,Mobile App,Good,Yes
+262,11500,39140,Yes,Trader,Agent,Poor,No
+80,5140,10380,No,Farmer,Agent,Poor,Yes
+266,16080,19210,No,Self-employed,Branch,Fair,Yes
+51,7660,16080,Yes,Farmer,Agent,Fair,No
+1,8650,22670,No,Salaried,Branch,Fair,No
+122,11970,15060,,Trader,Mobile App,Poor,Yes
+18,,16560,No,Self-employed,Branch,Fair,Yes
+209,11780,24230,Yes,Self-employed,Branch,Fair,No
+282,8540,23510,No,Trader,Agent,Good,No
+273,5310,11240,No,Farmer,Branch,Good,No
+165,11950,36250,Yes,Salaried,Agent,Good,No
+250,12350,10700,No,Self-employed,Mobile App,Poor,Yes
+179,8720,11440,No,Farmer,Branch,Fair,No
+242,12290,26260,Yes,Trader,Mobile App,Good,No
+173,7940,21500,Yes,Salaried,Mobile App,Good,No
+32,12650,21230,No,Farmer,Mobile App,Fair,Yes
+33,9200,23480,Yes,Farmer,Branch,Good,No
+47,8480,7050,Yes,Trader,Agent,Good,No
+10,14670,19570,Yes,Self-employed,Mobile App,Good,No
+101,5660,11100,No,Self-employed,Mobile App,Poor,Yes
+228,6370,10390,Yes,Salaried,Branch,Good,No
+39,,13450,No,Farmer,Agent,Good,No
+240,8560,20920,Yes,Farmer,Branch,Good,No
+133,15560,26550,Yes,Self-employed,Mobile App,Good,No
+56,5070,8810,No,Farmer,Mobile App,Fair,Yes
+222,9040,19740,Yes,Self-employed,Mobile App,Good,No
+246,8760,18400,No,Farmer,Mobile App,Fair,No
+38,19490,42500,Yes,Salaried,Mobile App,Good,No
+127,8230,13930,No,Self-employed,Branch,Fair,No
+200,7900,21280,Yes,Trader,Branch,Good,No
+78,,27490,No,Salaried,Mobile App,Fair,No
+253,6560,17200,Yes,Farmer,Mobile App,Fair,No
+217,5230,9780,No,Trader,Mobile App,Good,No
+136,5450,13360,Yes,Farmer,Mobile App,Poor,No
+264,10840,29600,No,Trader,Agent,Good,No
+44,13970,43790,Yes,Trader,Mobile App,Fair,Yes
+134,9210,29060,Yes,Self-employed,Branch,Good,No
+63,10110,32990,Yes,Salaried,Mobile App,Fair,No
+215,14290,40600,Yes,Self-employed,Agent,Fair,Yes
+171,7720,12320,Yes,Trader,Mobile App,Good,No
+106,10150,29670,Yes,Trader,Agent,Fair,Yes
+75,8990,18010,Yes,Salaried,Mobile App,Poor,Yes
+4,,21630,Yes,Farmer,Branch,Good,No
+220,11750,21300,No,Salaried,Mobile App,Good,No
+198,9340,30810,Yes,Self-employed,Branch,Fair,No
+167,3860,6930,Yes,Farmer,Mobile App,Good,No
+225,8490,20500,No,Salaried,Branch,Good,Yes
+91,4250,7050,No,Trader,Branch,Fair,No
+181,11240,12810,Yes,Salaried,Mobile App,Poor,No
+273,5310,11240,No,Farmer,Branch,Good,No
+161,13930,28190,No,Trader,Agent,Fair,Yes
+105,7830,13940,No,Salaried,Agent,Good,No
+132,6470,21170,Yes,Farmer,Mobile App,Good,No
+216,6510,14010,Yes,Farmer,Mobile App,Good,No
+143,4440,11860,No,Farmer,Branch,Poor,Yes
+115,9880,32070,No,Self-employed,Agent,Good,No
+188,11040,24940,Yes,Trader,Mobile App,Poor,No
+187,14000,18700,No,Self-employed,Mobile App,Fair,No
+23,4940,10700,Yes,Farmer,Mobile App,Good,No
+34,9550,18330,Yes,Trader,Mobile App,Poor,Yes
+27,7920,10380,Yes,Trader,Mobile App,Poor,No
+9,11140,31950,No,Self-employed,Mobile App,Good,No
+247,8550,26260,No,Salaried,Mobile App,Poor,Yes
+114,8650,25600,No,Trader,Agent,Good,No
+79,8240,16210,No,Trader,Mobile App,Fair,Yes
+2,10370,23360,No,Salaried,Mobile App,Good,No
+265,8400,17650,Yes,Trader,Mobile App,Good,No
+28,7060,17280,Yes,Farmer,Agent,Good,No
+93,8970,27460,No,Farmer,Mobile App,Good,No
+82,4820,6520,Yes,Trader,Agent,Fair,No
+224,14020,30810,No,Salaried,Branch,Good,No
+226,14140,38380,No,Self-employed,Mobile App,Poor,No
+196,17650,22620,Yes,Self-employed,Agent,Good,No
+235,6430,15110,No,Farmer,Mobile App,Poor,Yes
+40,2130,3690,No,Salaried,Mobile App,Good,No
+69,9330,26160,No,Trader,Mobile App,Poor,No
+286,10610,17800,No,Self-employed,Agent,Fair,No
+19,7520,19310,No,Farmer,Mobile App,Poor,Yes
+64,10480,14210,No,Salaried,Mobile App,Poor,No
+76,11000,22830,Yes,Salaried,Mobile App,Good,No
+159,6630,12400,Yes,Salaried,Agent,Fair,No
+261,9580,30430,Yes,Salaried,Mobile App,Poor,No
+98,9570,24870,Yes,Salaried,Agent,Fair,No
+263,8720,19580,No,Farmer,Agent,Good,No
+150,9660,14400,No,Salaried,Mobile App,Good,No
+175,12550,31580,No,Self-employed,Branch,Fair,No
+274,13540,22840,No,Self-employed,Branch,Fair,No
+111,5660,10810,No,Farmer,Mobile App,Poor,Yes
+97,2980,7810,Yes,Trader,Mobile App,Poor,No
+142,7590,7320,No,Trader,Mobile App,Fair,No
+295,11600,18790,Yes,Self-employed,Mobile App,Good,No
+59,13200,25810,Yes,Trader,Mobile App,Fair,No
+126,17850,49590,Yes,Self-employed,Branch,Fair,No
+278,6430,7620,No,Farmer,Mobile App,Poor,Yes
+70,10850,21940,No,Trader,Mobile App,Good,No
+163,9270,22190,Yes,Self-employed,Mobile App,Fair,No
+8,4080,11850,No,Farmer,Branch,Fair,Yes
+84,6430,12710,Yes,Farmer,Agent,Poor,No
+233,7610,18890,Yes,Trader,Mobile App,Poor,No
+153,7540,18040,No,Farmer,Mobile App,Fair,No
+158,2380,6780,Yes,Farmer,Mobile App,Poor,No
+197,8000,18410,No,Trader,Agent,Poor,No
+155,14040,25260,Yes,Self-employed,Mobile App,Fair,No
+267,10770,28110,Yes,Salaried,Branch,Good,No
+232,9720,16890,Yes,Self-employed,Agent,Good,No
+60,7470,15460,No,Farmer,Branch,Good,Yes
+112,14930,33630,No,Self-employed,Branch,Good,Yes
+26,5500,12670,No,Trader,Branch,Good,No
+14,12050,19200,Yes,Self-employed,Mobile App,Good,No
+89,5950,9890,Yes,Farmer,Mobile App,Fair,No
+191,14530,34220,No,Self-employed,Mobile App,Fair,No
+129,6070,14180,No,Trader,Mobile App,Poor,Yes
+21,6190,14340,No,Self-employed,Branch,Good,No
+186,8180,16000,No,Trader,Branch,Fair,No
+177,5160,10080,Yes,Farmer,Agent,Good,No
+203,3530,7360,No,Farmer,Branch,Poor,Yes
+36,5690,10430,Yes,Salaried,Mobile App,Poor,No
+190,12120,19590,Yes,Salaried,Mobile App,Fair,No
+271,8440,11660,,Trader,Branch,Good,No
+289,4510,11170,No,Farmer,Mobile App,Good,No
+85,5860,13000,Yes,Trader,Branch,Good,No
+257,9610,17100,Yes,Trader,Branch,Fair,Yes
+174,10880,34540,No,Salaried,Mobile App,Good,No
+100,2930,7210,No,Farmer,Mobile App,Poor,No
+243,10050,23030,Yes,Trader,Mobile App,Good,No
+214,15680,31630,No,Trader,Branch,Good,No
+146,13010,42730,No,Self-employed,Mobile App,Fair,No
+62,8100,21090,No,Self-employed,Mobile App,Good,No
+248,11120,32710,No,Salaried,Mobile App,Fair,Yes
+276,2930,8410,No,Farmer,Mobile App,Fair,Yes
+291,10890,29810,Yes,Self-employed,Mobile App,Good,No
+254,5100,6720,Yes,Farmer,Mobile App,Good,No
+102,5060,7950,Yes,Self-employed,Mobile App,Poor,No
+280,9610,24100,No,Self-employed,Mobile App,Good,No
+183,6480,8460,No,Farmer,Mobile App,Good,No
+283,6670,10000,No,Salaried,Branch,Poor,Yes
+193,7920,21990,No,Trader,Mobile App,Good,No
+37,14770,41850,,Self-employed,Branch,Good,No
+151,12880,22190,No,Salaried,Mobile App,Good,Yes
+54,10940,23700,No,Self-employed,Branch,Poor,No
+268,4920,15300,No,Farmer,Agent,Good,No
+81,12400,31790,Yes,Trader,Mobile App,Good,No
+218,10490,30070,Yes,Salaried,Branch,Poor,No
+238,13980,32810,No,Self-employed,Mobile App,Fair,No
+46,9590,25320,No,Salaried,Agent,Good,No
+298,9210,24030,Yes,Trader,Branch,Fair,No
+169,7500,17500,Yes,Salaried,Mobile App,Good,No
+145,9500,28810,Yes,Trader,Branch,Poor,Yes
+140,7520,20920,No,Trader,Agent,Good,No
+231,14630,35670,No,Trader,Mobile App,Good,No
+72,20470,28320,No,Self-employed,Agent,Good,No
+255,3650,6810,Yes,Farmer,Branch,Poor,Yes
+176,8020,13770,No,Self-employed,Agent,Fair,No
+20,12540,26550,Yes,Self-employed,Agent,Good,No
+237,8270,19200,No,Trader,Mobile App,Poor,No
+24,17030,38190,Yes,Self-employed,Mobile App,Good,Yes
+139,4260,5190,No,Self-employed,Mobile App,Good,No
+288,6960,17470,No,Self-employed,Mobile App,Poor,No
+109,8560,18610,Yes,Trader,Agent,Poor,Yes
+118,11690,37780,No,Self-employed,Mobile App,Good,No
+22,11190,14350,Yes,Self-employed,Agent,Fair,No
+49,11430,21960,No,Self-employed,Branch,Poor,Yes
+170,6400,13220,No,Farmer,Branch,Good,No
+223,5820,11080,Yes,Salaried,Mobile App,Poor,No
+256,9570,29890,Yes,Self-employed,Branch,Good,No
+43,9590,12980,No,Salaried,Branch,Good,No
+88,7060,17320,Yes,Salaried,Branch,Fair,No
+5,,9280,No,Farmer,Mobile App,Good,No
+29,11350,21550,No,Trader,Branch,Poor,Yes
+244,9260,18210,No,Self-employed,Branch,Poor,Yes
+194,15170,36730,No,Self-employed,Agent,Good,No
+195,9210,15870,Yes,Salaried,Branch,Poor,No
+281,11410,6150,No,Self-employed,Agent,Good,No
+48,17210,40480,No,Self-employed,Agent,Good,No
+17,6190,9210,No,Farmer,Agent,Good,No
+42,5970,20960,No,Farmer,Mobile App,Good,No
+154,5240,10640,No,Farmer,Mobile App,Fair,No
+116,7740,22920,Yes,Salaried,Branch,Poor,Yes
+125,9750,16780,Yes,Salaried,Branch,Good,No
+236,16630,30140,Yes,Self-employed,Agent,Good,No
+208,7830,21630,Yes,Salaried,Branch,Fair,Yes
+192,9030,33900,No,Trader,Branch,Fair,Yes
+41,10430,27160,Yes,Salaried,Mobile App,Good,No
+204,6320,16300,Yes,Trader,Branch,Fair,Yes
+137,9450,15690,Yes,Trader,Agent,Fair,No
+182,5870,14360,Yes,Salaried,Branch,Good,No
+130,1500,2020,No,Trader,Mobile App,Good,No
+270,2790,3090,Yes,Farmer,Mobile App,Good,No
+99,4960,13390,Yes,Salaried,Branch,Good,No
+124,12640,34040,Yes,Salaried,Mobile App,Poor,No
+77,9980,31050,Yes,Salaried,Mobile App,Fair,No
+269,,16370,No,Salaried,Mobile App,Fair,No
+50,11080,12210,No,Trader,Branch,Good,No
+55,16150,41620,Yes,Self-employed,Mobile App,Good,No
+92,6150,14090,Yes,Farmer,Branch,Good,No
+221,5330,7810,Yes,Farmer,Mobile App,Good,No
+258,8710,13530,Yes,Self-employed,Branch,Fair,No
+4,,21630,Yes,Farmer,Branch,Good,No
+147,15960,51570,No,Self-employed,Branch,Good,Yes
+275,5080,12230,Yes,Trader,Agent,Good,No
+141,8850,26030,Yes,Trader,Branch,Good,No
+272,8800,12920,No,Self-employed,Mobile App,Fair,No
+9,11140,31950,No,Self-employed,Mobile App,Good,No
+7,18540,38760,Yes,Self-employed,Mobile App,Poor,No
+211,9190,16070,Yes,Trader,Mobile App,Good,No
